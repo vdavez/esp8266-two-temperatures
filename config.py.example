@@ -1,0 +1,3 @@
+WIFI_SSID="My WiFi SSID"
+WIFI_PASSWORD="My WiFi Password"
+FIREBASE_URL="https://example.com"
